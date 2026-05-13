@@ -52,7 +52,7 @@
             <mxPoint x="720" y="244.40999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3Bfc6VlfJnLLVTTECCC-14" value="Downsample" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O3Bfc6VlfJnLLVTTECCC-14" value="Downsample" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="13" y="198" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O3Bfc6VlfJnLLVTTECCC-15" value="Downsample" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
