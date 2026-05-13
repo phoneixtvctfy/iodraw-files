@@ -79,8 +79,11 @@
         <mxCell id="O3Bfc6VlfJnLLVTTECCC-23" value="Stage 3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3Bfc6VlfJnLLVTTECCC-24" value="Stage 0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O3Bfc6VlfJnLLVTTECCC-24" value="Head" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="731" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3Bfc6VlfJnLLVTTECCC-25" value="Input" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="228" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
