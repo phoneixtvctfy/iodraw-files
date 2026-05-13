@@ -139,10 +139,10 @@
             <mxPoint x="706" y="435.40999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3Bfc6VlfJnLLVTTECCC-38" value="Patchify&lt;div&gt;4 ×&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="O3Bfc6VlfJnLLVTTECCC-38" value="SPFD&lt;div&gt;2 ×&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="14" y="381" width="80" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="O3Bfc6VlfJnLLVTTECCC-39" value="Downsample&lt;div&gt;2 ×&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="O3Bfc6VlfJnLLVTTECCC-39" value="DPFD&lt;div&gt;2 ×&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="205" y="381" width="80" height="39" as="geometry" />
         </mxCell>
         <mxCell id="O3Bfc6VlfJnLLVTTECCC-40" value="Downsample&lt;div&gt;2 ×&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
