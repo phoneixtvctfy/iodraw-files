@@ -64,7 +64,7 @@
         <mxCell id="O3Bfc6VlfJnLLVTTECCC-17" value="Downsample" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="505" y="198" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O3Bfc6VlfJnLLVTTECCC-19" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O3Bfc6VlfJnLLVTTECCC-19" value="Stage 0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
