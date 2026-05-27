@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K72tk1glDoY-7QNsQsL0-7" value="XXX组织架构" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="420" height="360" as="geometry" />
+          <mxGeometry x="190" y="50" width="430" height="330" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" target="K72tk1glDoY-7QNsQsL0-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="190" as="sourcePoint" />
+            <mxPoint x="215" y="190" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="140" y="190" />
+              <mxPoint x="145" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -19,106 +19,106 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="牵头单位：重庆邮电大学" treeRoot="1" id="K72tk1glDoY-7QNsQsL0-10">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-            <mxGeometry x="130" y="40" width="160" height="30" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
+            <mxGeometry x="135" y="40" width="160" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="K72tk1glDoY-7QNsQsL0-11" value="西南医科大学" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="20" y="210" width="100" height="30" as="geometry" />
+          <mxGeometry x="25" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-12" value="重庆邮电大学" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="160" y="210" width="100" height="30" as="geometry" />
+          <mxGeometry x="165" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-13" value="小目科技" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="290" y="210" width="100" height="30" as="geometry" />
+          <mxGeometry x="295" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" target="K72tk1glDoY-7QNsQsL0-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="190" as="sourcePoint" />
-            <mxPoint x="210" y="140" as="targetPoint" />
+            <mxPoint x="215" y="190" as="sourcePoint" />
+            <mxPoint x="215" y="140" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="190" />
+              <mxPoint x="275" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-15" value="项目负责人" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="160" y="130" width="100" height="30" as="geometry" />
+          <mxGeometry x="165" y="130" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" source="K72tk1glDoY-7QNsQsL0-10" target="K72tk1glDoY-7QNsQsL0-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="70" as="sourcePoint" />
-            <mxPoint x="210" y="240" as="targetPoint" />
+            <mxPoint x="215" y="70" as="sourcePoint" />
+            <mxPoint x="215" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-17" value="专家委员会" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="50" y="90" width="100" height="30" as="geometry" />
+          <mxGeometry x="55" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" source="K72tk1glDoY-7QNsQsL0-10" target="K72tk1glDoY-7QNsQsL0-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="70" as="sourcePoint" />
-            <mxPoint x="210" y="120" as="targetPoint" />
+            <mxPoint x="215" y="70" as="sourcePoint" />
+            <mxPoint x="215" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-19" value="项目管理" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="260" y="90" width="100" height="30" as="geometry" />
+          <mxGeometry x="275" y="90" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" source="K72tk1glDoY-7QNsQsL0-10" target="K72tk1glDoY-7QNsQsL0-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="70" as="sourcePoint" />
-            <mxPoint x="100" y="90" as="targetPoint" />
+            <mxPoint x="215" y="70" as="sourcePoint" />
+            <mxPoint x="105" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K72tk1glDoY-7QNsQsL0-21" value="西南医科大学" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="20" y="260" width="100" height="50" as="geometry" />
+        <mxCell id="K72tk1glDoY-7QNsQsL0-21" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;脑电信号分析&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;处理算法设计&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
+          <mxGeometry x="25" y="260" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K72tk1glDoY-7QNsQsL0-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;总体架构设计&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;方正仿宋_GB2312&quot; style=&quot;font-size: 12px;&quot;&gt;算法与系统研发调试&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;方正仿宋_GB2312&quot; style=&quot;font-size: 12px;&quot;&gt;算法部署与效果验证&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="150" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="K72tk1glDoY-7QNsQsL0-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;总体架构设计&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;方正仿宋_GB2312&quot;&gt;算法与系统研发调试&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;方正仿宋_GB2312&quot;&gt;算法部署与效果验证&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
+          <mxGeometry x="155" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K72tk1glDoY-7QNsQsL0-27" value="西南医科大学" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
-          <mxGeometry x="290" y="260" width="100" height="50" as="geometry" />
+        <mxCell id="K72tk1glDoY-7QNsQsL0-27" value="&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;系统集成与联调测试&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;span style=&quot;line-height: 115%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;应用示范现场实施&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="K72tk1glDoY-7QNsQsL0-7">
+          <mxGeometry x="285" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="209.86" y="240" as="sourcePoint" />
-            <mxPoint x="209.86" y="260" as="targetPoint" />
+            <mxPoint x="214.86" y="240" as="sourcePoint" />
+            <mxPoint x="214.86" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="209.86" y="240" />
+              <mxPoint x="214.86" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-30" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="339.86" y="240" as="sourcePoint" />
-            <mxPoint x="339.86" y="260" as="targetPoint" />
+            <mxPoint x="344.86" y="240" as="sourcePoint" />
+            <mxPoint x="344.86" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="339.86" y="240" />
+              <mxPoint x="344.86" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" target="K72tk1glDoY-7QNsQsL0-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="290" as="sourcePoint" />
-            <mxPoint x="270" y="260" as="targetPoint" />
+            <mxPoint x="275" y="290" as="sourcePoint" />
+            <mxPoint x="275" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="290" />
+              <mxPoint x="275" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="K72tk1glDoY-7QNsQsL0-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="290" as="sourcePoint" />
-            <mxPoint x="270" y="310" as="targetPoint" />
+            <mxPoint x="275" y="290" as="sourcePoint" />
+            <mxPoint x="275" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="290" />
+              <mxPoint x="275" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="K72tk1glDoY-7QNsQsL0-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="290" as="sourcePoint" />
-            <mxPoint x="410" y="310" as="targetPoint" />
+            <mxPoint x="275" y="290" as="sourcePoint" />
+            <mxPoint x="415" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="290" />
+              <mxPoint x="275" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
