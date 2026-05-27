@@ -7,8 +7,13 @@
         <mxCell id="K72tk1glDoY-7QNsQsL0-7" value="XXX组织架构" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="200" y="50" width="420" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="K72tk1glDoY-7QNsQsL0-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" source="K72tk1glDoY-7QNsQsL0-10" target="K72tk1glDoY-7QNsQsL0-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K72tk1glDoY-7QNsQsL0-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" target="K72tk1glDoY-7QNsQsL0-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="140" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K72tk1glDoY-7QNsQsL0-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="K72tk1glDoY-7QNsQsL0-7" source="K72tk1glDoY-7QNsQsL0-10" target="K72tk1glDoY-7QNsQsL0-12">
           <mxGeometry relative="1" as="geometry" />
